@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mircea-source
+// This is a comment.
 
 <!---
 mircea-source/mircea-source is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
